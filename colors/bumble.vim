@@ -80,8 +80,9 @@ hi Number guifg=#93e87e guibg=NONE guisp=NONE gui=NONE ctermfg=156 ctermbg=NONE 
 hi Boolean guifg=#b1d631 guibg=NONE guisp=NONE gui=NONE ctermfg=149 ctermbg=NONE cterm=NONE
 hi Operator guifg=#7e8aa2 guibg=NONE guisp=NONE gui=NONE ctermfg=103 ctermbg=NONE cterm=NONE
 hi CursorLine guifg=NONE guibg=#202020 guisp=#202020 gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
-hi CursorLineNr ctermfg=14 cterm=NONE
+hi CursorLineNr guifg=NONE guibg=#202020 guisp=#202020 gui=NONE ctermfg=14 ctermbg=NONE cterm=NONE
 hi CursorColumn guifg=NONE guibg=#202020 guisp=#202020 gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
+hi ColorColumn guifg=#3f3f3f guibg=NONE guisp=NONE gui=italic ctermfg=NONE ctermbg=237 cterm=NONE
 hi Define guifg=#faf4c6 guibg=NONE guisp=NONE gui=NONE ctermfg=230 ctermbg=NONE cterm=NONE
 hi Function guifg=#00ffcc guibg=NONE guisp=NONE gui=bold ctermfg=50 ctermbg=NONE cterm=bold
 hi PreProc guifg=#f5eca6 guibg=NONE guisp=NONE gui=NONE ctermfg=229 ctermbg=NONE cterm=NONE
