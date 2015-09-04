@@ -39,7 +39,7 @@ hi Normal guifg=#e2e2e5 guibg=#202020 guisp=#202020 gui=NONE ctermfg=254 ctermbg
 "hi Error ctermfg=0
 "hi DefinedName -- no settings --
 "hi LocalVariable -- no settings --
-hi SpellBad ctermfg=254 ctermbg=236 cterm=NONE
+hi SpellBad ctermfg=254 ctermbg=131 cterm=NONE
 "hi CTagsClass -- no settings --
 "hi Directory -- no settings --
 "hi Underlined -- no settings --
