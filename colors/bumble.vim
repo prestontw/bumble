@@ -18,6 +18,7 @@ let g:colors_name = "bumble"
 "hi CTagsGlobalConstant -- no settings --
 "hi ErrorMsg -- no settings --
 "hi Ignore -- no settings --
+"this is the default. change normal's ctermbg for different bg
 hi Normal guifg=#e2e2e5 guibg=#202020 guisp=#202020 gui=NONE ctermfg=254 ctermbg=234 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
